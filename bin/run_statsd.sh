@@ -1,1 +1,1 @@
-/opt/iota/nodejs/node/bin/node /opt/iota/statsd/statsd/stats.js /opt/iota/iota/statsd/config.js
+/opt/node/bin/node /opt/statsd/statsd/stats.js /opt/iota/iota/statsd/config.js
